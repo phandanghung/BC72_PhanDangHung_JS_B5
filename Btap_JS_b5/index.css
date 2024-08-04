@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none;
+    padding:0;
+}
+#so-ket-noi{
+    display:none;
+}
+#thanh-hien-thi{
+    display: none;
+}
